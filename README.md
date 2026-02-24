@@ -1,5 +1,5 @@
 <p align="center">
-#  <img src="profile_photo.jpeg" alt="Tomi Jacobs" width="150" style="border-radius: 50%;" />
+  <img src="profile_photo.jpeg" alt="Tomi Jacobs" width="150" style="border-radius: 50%;" />
 </p>
 
 # Hi, I'm Tomi Jacobs 👋
