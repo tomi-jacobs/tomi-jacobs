@@ -25,8 +25,12 @@ Bioinformatics: Methods development & Phylogenomics
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomi-jacobs&show_icons=true&theme=default&hide_border=true" alt="Tomi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-jacobs&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tomi-jacobs&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="Tomi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-jacobs&layout=compact&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomi-jacobs&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
