@@ -1,6 +1,6 @@
 # Hi, I'm Tomi Jacobs
 
-I am a 3rd year PhD Candidate at the University of Illinois Chicago, studying the dynamics of computation and genetics — building bioinformatics pipelines by utilizing shell scripting, programming languages, and models to decode large-scale phylotranscriptomics data.
+I am a 3rd year PhD Candidate at the University of Illinois, Chicago, studying the dynamics of computation and genetics — building bioinformatics pipelines by utilizing shell scripting, programming languages, and models to decode large-scale phylotranscriptomics data.
 
 ---
 
