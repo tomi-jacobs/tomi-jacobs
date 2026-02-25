@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="profile_photo.jpeg" alt="Tomi Jacobs" width="150" style="border-radius: 50%;" />
-</p>
-
-# Hi, I'm Tomi Jacobs 👋
-
-**Bioinformatician · PhD Candidate · Delaware State & Cornell University Alum**
+# Hi, I'm Tomi Jacobs
 
 I am a 3rd year PhD Candidate at the University of Illinois Chicago, studying the dynamics of computation and genetics — building bioinformatics pipelines by utilizing shell scripting, programming languages, and models to decode large-scale phylotranscriptomics data.
 
@@ -12,17 +6,13 @@ A creative soul, inspired by the art of poetry, the lens of photography, period 
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
-- Phylotranscriptomics & Evolutionary Biology
-- Weighted Gene Co-expression Network Analysis (WGCNA)
-- Bioinformatics Pipeline Development
-- Large-scale Genomic Data Analysis
-- Drought Resistance in Plant Systems
+Bioinformatics: Methods development & Phylogenomics
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -32,14 +22,32 @@ A creative soul, inspired by the art of poetry, the lens of photography, period 
 
 ---
 
-## 📁 Featured Projects
+## GitHub Stats
 
-### 🌱 Phytosociological Survey of Weeds on a Date Palm Plantation *(University of Ilorin, B.S.)*
-Conducted a field-based phytosociological survey to identify and characterize weed species compositions within a Date palm (*Phoenix dactylifera*) plantation. This undergraduate research laid the foundation for integrating botanical fieldwork with data analytics.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomi-jacobs&show_icons=true&theme=default&hide_border=true" alt="Tomi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-jacobs&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-### 🌿 WGCNA for Sugar Maple Transcriptomics *(Cornell University, M.S.)*
+## Featured Projects
+
+### Pythia Difficulty Score Analysis *(University of Illinois Chicago, Ph.D.)*
+Applied the Pythia tool to evaluate per-dataset difficulty scores across phylogenetic clusters. The distribution of predicted difficulty scores was used to classify datasets as easy, intermediate, or difficult — informing downstream phylogenetic inference strategies.
+
+![Pythia Difficulty Score](pythia_difficulty.png)
+
+---
+
+### Conflict Analysis *(University of Illinois Chicago, Ph.D.)*
+Phylogenetic conflict analysis examining the proportion of concordant, uninformative, and conflicting sites across the dataset. Each category reflects the degree of agreement between gene trees and the species tree.
+
+![Conflict Analysis](conflict_analysis.png)
+
+---
+
+### WGCNA for Sugar Maple Transcriptomics *(Cornell University, M.S.)*
 Carried out bioinformatics research using Weighted Gene Correlation Network Analysis (WGCNA) to identify key genes regulating drought resistance in *Acer saccharum* (Sugar Maple). Pipeline included DESeq2 differential expression analysis, variance stabilizing transformation, and co-expression network construction.
 
 **MA Plot — Differential Gene Expression**
@@ -61,21 +69,12 @@ Carried out bioinformatics research using Weighted Gene Correlation Network Anal
 
 ---
 
-### 🧬 Conflict Analysis *(University of Illinois Chicago, Ph.D.)*
-Phylogenetic conflict analysis examining the proportion of concordant, uninformative, and conflicting sites across the dataset. Each category reflects the degree of agreement between gene trees and the species tree.
-
-![Conflict Analysis](conflict_analysis.png)
+### Phytosociological Survey of Weeds on a Date Palm Plantation *(University of Ilorin, B.S.)*
+Conducted a field-based phytosociological survey to identify and characterize weed species compositions within a Date palm (*Phoenix dactylifera*) plantation. This undergraduate research laid the foundation for integrating botanical fieldwork with data analytics.
 
 ---
 
-### 🤖 Pythia Difficulty Score Analysis *(University of Illinois Chicago, Ph.D.)*
-Applied the Pythia tool to evaluate per-dataset difficulty scores across phylogenetic clusters. The distribution of predicted difficulty scores was used to classify datasets as easy, intermediate, or difficult — informing downstream phylogenetic inference strategies.
-
-![Pythia Difficulty Score](pythia_difficulty.png)
-
----
-
-## 🎓 Education
+## Education
 
 | Degree | Institution | Field |
 |--------|-------------|-------|
@@ -86,16 +85,7 @@ Applied the Pythia tool to evaluate per-dataset difficulty scores across phyloge
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomi-jacobs&show_icons=true&theme=default&hide_border=true" alt="Tomi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-jacobs&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Connect With Me
+## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-tomi--jacobs-181717?style=for-the-badge&logo=github)](https://github.com/tomi-jacobs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomi%20Jacobs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomijacobs/)
