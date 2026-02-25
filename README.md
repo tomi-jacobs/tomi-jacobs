@@ -2,8 +2,6 @@
 
 I am a 3rd year PhD Candidate at the University of Illinois Chicago, studying the dynamics of computation and genetics — building bioinformatics pipelines by utilizing shell scripting, programming languages, and models to decode large-scale phylotranscriptomics data.
 
-A creative soul, inspired by the art of poetry, the lens of photography, period pieces & timeless books.
-
 ---
 
 ## Research Interests
