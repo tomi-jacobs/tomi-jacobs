@@ -73,18 +73,6 @@ Conducted a field-based phytosociological survey to identify and characterize we
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomi-jacobs&show_icons=true&theme=default&hide_border=true&hide=prs&include_all_commits=true&count_private=true" alt="Tomi's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-jacobs&layout=donut&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## Education
 
 | Degree | Institution | Field |
