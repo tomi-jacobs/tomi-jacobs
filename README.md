@@ -57,10 +57,6 @@ Carried out bioinformatics research using Weighted Gene Correlation Network Anal
 🔗 [View Repository](https://github.com/tomi-jacobs/Weighted-Gene-Correlation-Network-Analysis-WGCNA-for-MapleTranscriptomics)
 
 ---
-
-### Phytosociological Survey of Weeds on a Date Palm Plantation *(University of Ilorin, B.S.)*
-Conducted a field-based phytosociological survey to identify and characterize weed species compositions within a Date palm (*Phoenix dactylifera*) plantation. This undergraduate research laid the foundation for integrating botanical fieldwork with data analytics.
-
 ---
 
 ## Skills & Tools
