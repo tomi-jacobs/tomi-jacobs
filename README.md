@@ -2,6 +2,8 @@
 
 I am a 3rd year PhD Candidate at the University of Illinois Chicago, studying the dynamics of computation and genetics — building bioinformatics pipelines by utilizing shell scripting, programming languages, and models to decode large-scale phylotranscriptomics data.
 
+A creative soul, inspired by the art of poetry, the lens of photography, period pieces & timeless books.
+
 ---
 
 ## Research Interests
@@ -23,7 +25,7 @@ Bioinformatics: Methods development & Phylogenomics
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomi-jacobs&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="Tomi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tomi-jacobs&show_icons=true&theme=tokyonight&hide_border=true&hide=prs&include_all_commits=true&count_private=true" alt="Tomi's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-jacobs&layout=compact&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
