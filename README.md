@@ -41,17 +41,17 @@ Bioinformatics: Methods development & Phylogenomics
 
 ## Featured Projects
 
-### Pythia Difficulty Score Analysis *(University of Illinois Chicago, Ph.D.)*
+### Pythia Difficulty Score Analysis 
 Applied the Pythia tool to evaluate per-dataset difficulty scores across phylogenetic clusters. The distribution of predicted difficulty scores was used to classify datasets as easy, intermediate, or difficult — informing downstream phylogenetic inference strategies.
 
 ---
 
-### Conflict Analysis *(University of Illinois Chicago, Ph.D.)*
+### Conflict Analysis 
 Phylogenetic conflict analysis examining the proportion of concordant, uninformative, and conflicting sites across the dataset. Each category reflects the degree of agreement between gene trees and the species tree.
 
 ---
 
-### WGCNA for Sugar Maple Transcriptomics *(Cornell University, M.S.)*
+### WGCNA for Sugar Maple Transcriptomics 
 Carried out bioinformatics research using Weighted Gene Correlation Network Analysis (WGCNA) to identify key genes regulating drought resistance in *Acer saccharum* (Sugar Maple). Pipeline included DESeq2 differential expression analysis, variance stabilizing transformation, and co-expression network construction.
 
 🔗 [View Repository](https://github.com/tomi-jacobs/Weighted-Gene-Correlation-Network-Analysis-WGCNA-for-MapleTranscriptomics)
