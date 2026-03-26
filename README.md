@@ -57,7 +57,6 @@ Carried out bioinformatics research using Weighted Gene Correlation Network Anal
 🔗 [View Repository](https://github.com/tomi-jacobs/Weighted-Gene-Correlation-Network-Analysis-WGCNA-for-MapleTranscriptomics)
 
 ---
----
 
 ## Skills & Tools
 
@@ -66,17 +65,6 @@ Carried out bioinformatics research using Weighted Gene Correlation Network Anal
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HPC](https://img.shields.io/badge/HPC-High--Performance%20Computing-blueviolet?style=for-the-badge)
-
----
-
-## Education
-
-| Degree | Institution | Field |
-|--------|-------------|-------|
-| Ph.D. Candidate | University of Illinois Chicago | Bioinformatics, Phylogenetics, Evolutionary Biology |
-| M.S. | Cornell University | Bioinformatics / Plant Transcriptomics |
-| M.S. | Delaware State University | Plant Genetics & Bioinformatics |
-| B.S. | University of Ilorin, Nigeria | Plant Biology *(Minor: Data Analytics)* |
 
 ---
 
