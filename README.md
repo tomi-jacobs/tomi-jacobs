@@ -38,7 +38,7 @@ Bioinformatics: Methods development & Phylogenomics
 ### Pythia Difficulty Score Analysis 
 Applied the Pythia tool to evaluate per-dataset difficulty scores across phylogenetic clusters. The distribution of predicted difficulty scores was used to classify datasets as easy, intermediate, or difficult — informing downstream phylogenetic inference strategies.
 
-### Conflict Analysis 
+### Conflict Analysis across datasets
 Phylogenetic conflict analysis examining the proportion of concordant, uninformative, and conflicting sites across the dataset. Each category reflects the degree of agreement between gene trees and the species tree.
 
 ### WGCNA for Sugar Maple Transcriptomics 
