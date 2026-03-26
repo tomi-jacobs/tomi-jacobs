@@ -23,12 +23,12 @@ Bioinformatics: Methods development & Phylogenomics
     <td align="center" width="25%">
       <img src="ma_plot.png" width="100%" /><br/>
       <b>Differential Gene Expression</b><br/>
-      <sub>M.S. — Cornell</sub>
+      <sub>Fellow — Cornell</sub>
     </td>
     <td align="center" width="25%">
       <img src="sample_correlation.png" width="100%" /><br/>
       <b>Sample Correlation Heatmap</b><br/>
-      <sub>M.S. — Cornell</sub>
+      <sub>Fellow — Cornell</sub>
     </td>
   </tr>
 </table>
