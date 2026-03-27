@@ -1,6 +1,6 @@
-# Hi, I'm Tomi Jacobs
+# Hi, I'm Tomi
 
-I am a 3rd year PhD Candidate studying the dynamics of computation and genetics, building bioinformatics pipelines by utilizing shell scripting, programming languages, and models to decode large-scale phylotranscriptomics data.
+A 3rd year PhD Candidate studying the dynamics of computation and genetics, building bioinformatics pipelines by utilizing shell scripting, programming languages, and models to decode large-scale phylotranscriptomics data.
 
 ## Research Interests
 
