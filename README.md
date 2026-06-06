@@ -35,7 +35,7 @@ Bioinformatics: Methods development & Phylogenomics
 
 ## Featured Projects
 
-### Pythia Difficulty Score Analysis 
+### Machine Learning Difficulty Score Analysis 
 Applied the Pythia tool to evaluate per-dataset difficulty scores across phylogenetic clusters. The distribution of predicted difficulty scores was used to classify datasets as easy, intermediate, or difficult — informing downstream phylogenetic inference strategies.
 
 ### Conflict Analysis across datasets
