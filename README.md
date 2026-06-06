@@ -44,7 +44,7 @@ Phylogenetic conflict analysis examining the proportion of concordant, uninforma
 ### WGCNA for Sugar Maple Transcriptomics 
 Carried out bioinformatics research using Weighted Gene Correlation Network Analysis (WGCNA) to identify key genes regulating drought resistance in *Acer saccharum* (Sugar Maple). Pipeline included DESeq2 differential expression analysis, variance stabilizing transformation, and co-expression network construction.
 
-🔗 [View Repository](https://github.com/tomi-jacobs/Weighted-Gene-Correlation-Network-Analysis-WGCNA-for-MapleTranscriptomics)
+🔗 [View Repository](https://github.com/tomi-jacobs?tab=repositories)
 
 ## Skills & Tools
 
