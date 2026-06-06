@@ -4,7 +4,7 @@ A 3rd year PhD Candidate studying the dynamics of computation and genetics, buil
 
 ## Research Interests
 
-Bioinformatics: Methods development & Phylogenomics
+Bioinformatics: Methods development & Evolutionary Genomics
 
 ## Research Highlights
 
