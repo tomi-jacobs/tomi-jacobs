@@ -17,7 +17,7 @@ Bioinformatics: Methods development & Evolutionary Genomics
     </td>
     <td align="center" width="25%">
       <img src="conflict_analysis.png" width="100%" /><br/>
-      <b>Conflict Analysis</b><br/>
+      <b> Gene Conflict/Concordance Analysis</b><br/>
       <sub>Ph.D. — UIC</sub>
     </td>
     <td align="center" width="25%">
