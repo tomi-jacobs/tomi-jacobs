@@ -1,6 +1,6 @@
 # Hi, I'm Tomi
 
-A 3rd year PhD Candidate studying the dynamics of computation and genetics, building bioinformatics pipelines by utilizing shell scripting, programming languages, and models to decode large-scale phylotranscriptomics data.
+A 3rd year PhD Candidate studying computation and genetics, building bioinformatics pipelines by utilizing shell scripting, programming languages, and models to decode large-scale phylotranscriptomics data.
 
 ## Research Interests
 
