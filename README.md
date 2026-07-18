@@ -13,22 +13,22 @@ Bioinformatics: Methods development & Evolutionary Genomics
     <td align="center" width="25%">
       <img src="pythia_difficulty.png" width="100%" /><br/>
       <b>Pythia Difficulty Score</b><br/>
-      <sub>Ph.D. — UIC</sub>
+      <sub>Ph.D. candidate UIC</sub>
     </td>
     <td align="center" width="25%">
       <img src="conflict_analysis.png" width="100%" /><br/>
       <b> Gene Conflict/Concordance Analysis</b><br/>
-      <sub>Ph.D. — UIC</sub>
+      <sub>Ph.D. candidate UIC</sub>
     </td>
     <td align="center" width="25%">
       <img src="ma_plot.png" width="100%" /><br/>
       <b>Differential Gene Expression</b><br/>
-      <sub>Fellow — Cornell</sub>
+      <sub>TWT Fellow Cornell</sub>
     </td>
     <td align="center" width="25%">
       <img src="sample_correlation.png" width="100%" /><br/>
       <b>Sample Correlation Heatmap</b><br/>
-      <sub>Fellow — Cornell</sub>
+      <sub>TWT Fellow Cornell</sub>
     </td>
   </tr>
 </table>
@@ -44,7 +44,7 @@ Phylogenetic conflict analysis examining the proportion of concordant, uninforma
 ### WGCNA for Sugar Maple Transcriptomics 
 Carried out bioinformatics research using Weighted Gene Correlation Network Analysis (WGCNA) to identify key genes regulating drought resistance in *Acer saccharum* (Sugar Maple). Pipeline included DESeq2 differential expression analysis, variance stabilizing transformation, and co-expression network construction.
 
-🔗 [View Repository](https://github.com/tomi-jacobs?tab=repositories)
+[View Repository](https://github.com/tomi-jacobs?tab=repositories)
 
 ## Skills & Tools
 
